@@ -1,0 +1,80 @@
+
+
+/*p{
+
+  font-size: 15px;
+} 
+
+.todo
+	{
+	border: 2px solid red;
+	padding: auto;
+	margin:auto;
+	background-color: white;
+	display:inline-grid;
+    height: auto; 
+    width: auto;
+    object-position:
+
+
+	}
+
+
+
+.uno{
+
+	border: 7px solid yellow;
+	padding: 15px 17px 80px 20px;
+	margin:0px 0px 0px 5px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 190px;
+    text-align: center;
+    object-position: right;
+	}
+
+.dos{
+
+	border: 5px solid yellow;
+	padding: 15px 17px 50px 20px;
+	margin:0px 0px 0px 5px;
+	background-color: white;
+	display: block;
+    height: 100px; 
+    width: 190px;
+    text-align: center;
+    object-position: left;
+	}*/
+p{
+
+	border: 15px solid yellow ;
+	padding: 30px;
+	background-color: white;
+	display: block;
+
+	
+}
+	.uno{
+		margin-right: 1000px;
+		text-align: center;
+
+
+	}
+	.dos{
+		margin-left: 600px;
+		margin-right: 400px;
+		text-align: left;
+
+	}
+
+	.todo
+	{
+	border: 2px solid black;
+	padding: auto;
+	margin:auto;
+	background-color: white;
+	display:inline-grid;
+    height: auto; 
+    width: auto;
+    }
